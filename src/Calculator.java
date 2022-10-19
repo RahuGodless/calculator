@@ -8,7 +8,7 @@ public class Calculator {
         //System.out.println(stroka);
         String pm = scanner.next();
         if (pm.equals("+")) {
-            System.out.print("Введите первое значение для сложения: ");
+            System.out.print("Введите первое значение для сложениzя: ");
             int in1 = scanner.nextInt();
             System.out.print("Введите второе значение для сложения: ");
             int in2 = scanner.nextInt();
